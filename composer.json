@@ -1,5 +1,5 @@
 {
-    "name": "supliu/laravel-query-monitor",
+    "name": "beeok/laravel-query-monitor",
     "type": "library",
     "description": "Laravel Query Monitor",
     "keywords": [
@@ -18,13 +18,13 @@
         }
     },
     "require": {
-        "laravel/framework": "^5.6 || ^6.0 || ^7.0 || ^8.0 || ^9.0",
+        "laravel/framework": "^5.6 || ^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0",
         "php": "^7.3 || ^8.0",
         "react/socket": "^1.4"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "dev-master": "1.0"
         },
         "laravel": {
             "providers": [
